@@ -6,6 +6,3 @@ LINE unofficial bot that can resend deleted message
 2. Install [API](https://github.com/fadhiilrachman/line-py)
 3. Input some variables
 4. Now you can use it!
-
-## How to get authToken
-I don't know ¯\_(ツ)_/¯
